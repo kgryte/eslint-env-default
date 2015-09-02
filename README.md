@@ -42,7 +42,7 @@ var env = require( 'eslint-env-default' ),
 	config = require( './existing_config.json' );
 
 // Add the environments to an existing ESLint config...
-config.ecmaenv = env;
+config.env = env;
 
 console.dir( config );
 ```
