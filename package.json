@@ -1,6 +1,6 @@
 {
   "name": "eslint-env-default",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ESLint default environments.",
   "author": {
     "name": "Athan Reines",
